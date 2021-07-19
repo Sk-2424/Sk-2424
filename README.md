@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 I’m Sumit Kumar
-- 👀 I’m a Web developemnt enthusiast 
-- 🌱 I’m currently mern stack 
+- 👀 I’m a Web developement enthusiast 
 - 📫 How to reach me:-https://www.linkedin.com/in/sumit-kumar-550a58175/
