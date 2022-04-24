@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 👋 I’m Sumit Kumar
 - 👀 I’m a Data Science enthusiast 
-- 📫 How to reach me:-https://www.linkedin.com/in/sumit-kumar-550a58175/
+- 📫 How to reach me:-https://www.linkedin.com/in/sumit-kumar089/
